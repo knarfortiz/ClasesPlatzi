@@ -1,0 +1,19 @@
+{% extends 'index.html' %}
+
+{% block body %}
+<div class="card">
+  <div class="card-body">
+	<p><b>Nombre:</b> {{ contact.name }}</p>
+	<p><b>Teléfono:</b> {{ contact.phone }}</p>
+	<p><b>Email:</b> {{ contact.email }}</p>
+	
+	<hr>
+	<form action="/delete" method="post">
+	  <input type="hidden" name="uid" value="{{ contact.key.id() }}">
+	  <button type="submit" class="btn btn-outline-info btn-block">Eliminar</button>
+	  <a href="/" class="btn btn-outline-danger btn-block">Regresar</a>
+	</form>
+  </div>
+</div>
+
+{% endblock %}

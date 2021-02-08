@@ -1,0 +1,16 @@
+{% extends 'index.html' %}
+
+{% block body %}
+
+<div class="card">
+  <div class="card-body">
+	<ul class="list-group">
+	  {% for contact in contacts: %}
+		<a href="/contacts/{{ contact.key.id() }}" class="list-group-item list-group-item-action">{{ contact.name }}</a>
+	  {% endfor %}
+	</ul>
+	<hr>
+	<a href="/add" class="btn btn-outline-info btn-block">Añadir Contactos</a>
+  </div>
+</div>
+{% endblock %}
