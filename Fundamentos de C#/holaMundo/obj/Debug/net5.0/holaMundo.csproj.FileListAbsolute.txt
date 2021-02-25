@@ -1,0 +1,16 @@
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/bin/Debug/net5.0/holaMundo
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/bin/Debug/net5.0/holaMundo.deps.json
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/bin/Debug/net5.0/holaMundo.runtimeconfig.json
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/bin/Debug/net5.0/holaMundo.runtimeconfig.dev.json
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/bin/Debug/net5.0/holaMundo.dll
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/bin/Debug/net5.0/ref/holaMundo.dll
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/bin/Debug/net5.0/holaMundo.pdb
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/obj/Debug/net5.0/holaMundo.csprojAssemblyReference.cache
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/obj/Debug/net5.0/holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/obj/Debug/net5.0/holaMundo.AssemblyInfoInputs.cache
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/obj/Debug/net5.0/holaMundo.AssemblyInfo.cs
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/obj/Debug/net5.0/holaMundo.csproj.CoreCompileInputs.cache
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/obj/Debug/net5.0/holaMundo.dll
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/obj/Debug/net5.0/ref/holaMundo.dll
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/obj/Debug/net5.0/holaMundo.pdb
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/holaMundo/obj/Debug/net5.0/holaMundo.genruntimeconfig.cache
