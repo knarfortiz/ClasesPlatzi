@@ -1,0 +1,28 @@
+# Configurar Docker
+sudo groupadd docker
+sudo usermod -aG docker $USER
+sudo systemctl status docker
+sudo systemctl start docker
+
+# Hola mundo
+docker run hello-world
+
+# Contenedores que estan corriendo 
+docker ps	   // Esta corriendo actualmente
+docker ps -a   // Todos historial y activos
+
+# Info del contenedor
+docker inspect [Container Id/Name]
+
+# correr contenedor asignando nombre
+docker run --name [name] [container]
+
+# renombrar contenedor
+docker rename [oldName] [newName]
+
+# Eliminar contenedores unicamente si estan detenidos 
+docker rm [Container Id/Name]
+docker container prune
+
+# Modo interactivo del contenedor
+docker run -it [container]
