@@ -1,0 +1,16 @@
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/bin/Debug/net5.0/Etapa1
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/bin/Debug/net5.0/Etapa1.deps.json
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/bin/Debug/net5.0/Etapa1.runtimeconfig.json
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/bin/Debug/net5.0/Etapa1.runtimeconfig.dev.json
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/bin/Debug/net5.0/Etapa1.dll
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/bin/Debug/net5.0/ref/Etapa1.dll
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/bin/Debug/net5.0/Etapa1.pdb
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/obj/Debug/net5.0/Etapa1.csprojAssemblyReference.cache
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/obj/Debug/net5.0/Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/obj/Debug/net5.0/Etapa1.AssemblyInfoInputs.cache
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/obj/Debug/net5.0/Etapa1.AssemblyInfo.cs
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/obj/Debug/net5.0/Etapa1.csproj.CoreCompileInputs.cache
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/obj/Debug/net5.0/Etapa1.dll
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/obj/Debug/net5.0/ref/Etapa1.dll
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/obj/Debug/net5.0/Etapa1.pdb
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/Fundamentos de C#/Etapa1/obj/Debug/net5.0/Etapa1.genruntimeconfig.cache

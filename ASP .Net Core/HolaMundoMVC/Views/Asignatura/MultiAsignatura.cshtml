@@ -1,0 +1,15 @@
+@model List<Asignatura> 
+
+@{
+    ViewData["Title"] = "Información Asignatura";
+}
+ 
+<div>
+	<h1 class="display-4">@ViewData["Title"]</h1>
+	
+
+	<partial name="ListaObjetosEscuela" />
+
+	<p>ViewBag: @ViewBag.Fecha</p>
+</div>
+@* Comentarios Razor *@

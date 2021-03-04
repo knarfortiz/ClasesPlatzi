@@ -1,0 +1,14 @@
+@model Alumno 
+
+@{
+    ViewData["Title"] = "Información Alumno";
+}
+ 
+<div>
+	<h1 class="display-4">@ViewData["Title"]</h1>
+	
+	<partial name="ObjetoEscuelaSimple" />
+
+	<p>ViewBag: @ViewBag.Fecha</p>
+</div>
+@* Comentarios Razor *@
