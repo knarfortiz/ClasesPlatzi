@@ -40,3 +40,8 @@
 /home/overshot/Documentos/Desarrollo/ClasesPlatzi/ASP .Net Core/HolaMundoMVC/obj/Debug/net5.0/HolaMundoMVC.csproj.CopyComplete
 /home/overshot/Documentos/Desarrollo/ClasesPlatzi/ASP .Net Core/HolaMundoMVC/obj/Debug/net5.0/Razor/Views/Escuela/Index.cshtml.g.cs
 /home/overshot/Documentos/Desarrollo/ClasesPlatzi/ASP .Net Core/HolaMundoMVC/obj/Debug/net5.0/Razor/Views/Asignatura/Index.cshtml.g.cs
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/ASP .Net Core/HolaMundoMVC/obj/Debug/net5.0/Razor/Views/Asignatura/MultiAsignatura.cshtml.g.cs
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/ASP .Net Core/HolaMundoMVC/obj/Debug/net5.0/Razor/Views/Shared/ObjetoEscuelaSimple.cshtml.g.cs
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/ASP .Net Core/HolaMundoMVC/obj/Debug/net5.0/Razor/Views/Alumno/Index.cshtml.g.cs
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/ASP .Net Core/HolaMundoMVC/obj/Debug/net5.0/Razor/Views/Alumno/MultiAlumno.cshtml.g.cs
+/home/overshot/Documentos/Desarrollo/ClasesPlatzi/ASP .Net Core/HolaMundoMVC/obj/Debug/net5.0/Razor/Views/Shared/ListaObjetosEscuela.cshtml.g.cs
